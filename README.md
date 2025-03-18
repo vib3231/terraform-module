@@ -29,6 +29,7 @@ A typical Terraform module consists of the following files:
 1️⃣ Clone the Repository
 
 git clone https://github.com/vib3231/terraform-module.git
+
 cd terraform-module
 
 2️⃣ Initialize Terraform:
